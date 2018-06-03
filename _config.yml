@@ -9,14 +9,14 @@ description: "Tener un blog es vintage." # used by search engines
 theme_settings:
   # Meta
   title: Córtame, prometo no llorarte. # blog's title
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/pexels/laugh_small.jpeg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
      Porque esta vez nos queremos.
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+  header_text_feature_image: assets/img/pexels/lejos.jpeg
   footer_text: >
 
   # Icons
