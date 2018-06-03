@@ -8,14 +8,14 @@ description: "Tener un blog es vintage." # used by search engines
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: Córtame, prometo no llorarte. # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     Esta vez nos queremos.
+     Porque esta vez nos queremos.
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
 
