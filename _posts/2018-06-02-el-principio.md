@@ -27,10 +27,10 @@ La amaba tanto que la firmé y no dije nada. Se la entregué al cliente sabiendo
 
 Algo pasó aquél fin de semana: el gigante me había retado a un duelo y me quería machacar delante de todo el mundo a la salida de clase. El rumor corrió como la pólvora y por los pasillos la gente me miraba con esa mezcla de pena e incomodidad con la que se esquiva a los desgraciados.
 
-Ni siquiera intenté defenderme. Cuando ya estaba en el suelo con la ceja partida y este diente partido que me acompañará siempre, escuché su voz:
+Ni siquiera intenté defenderme. Cuando ya estaba en el suelo con la ceja abierta y el diente partido que me acompañará siempre, escuché su voz:
 
-- Hay que ser muy hombre para meterse en una pelea perdida.
+> Hay que ser muy hombre para meterse en una pelea perdida.
 
 Se arrodilló junto a mí, con los ojos llenos de lágrimas, y me susurró al oído.
 
-- Venga, vámonos de aquí, que nadie nos entiende.
+> Venga, vámonos de aquí, que nadie nos entiende.
