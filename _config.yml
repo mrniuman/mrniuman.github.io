@@ -3,6 +3,8 @@ baseurl: ""
 url: "https://mrniuman.github.io"
 title: Córtame, prometo no llorarte # site's title
 description: "Tener un blog es vintage." # used by search engines
+twitter_username: MrNiuman
+title_image: assets/img/pexels/lejos.jgpeg
 
 
 # THEME-SPECIFIC CONFIGURATION
