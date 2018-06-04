@@ -5,7 +5,24 @@ layout: default
   <header id="main" style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
     <h1 id="{{ page.title | cgi_escape }}" class="title">{{ page.title }}</h1>
     <p class="meta">
-    {{ page.date | date: "%B %-d, %Y" }}
+<!-- Whitespace added for readability -->
+{% assign m = page.date | date: "%-m" %}
+{{ page.date | date: "%-d" }}
+{% case m %}
+  {% when '1' %}Enero
+  {% when '2' %}Febrero
+  {% when '3' %}Marzo
+  {% when '4' %}Abril
+  {% when '5' %}Mayo
+  {% when '6' %}Junio
+  {% when '7' %}Julio
+  {% when '8' %}Agosto
+  {% when '9' %}Septiembre
+  {% when '10' %}Octubre
+  {% when '11' %}Noviembre
+  {% when '12' %}Diciembre
+{% endcase %}
+    {{ page.date | date: "%Y"  }}
     {% if page.author %} - {{ page.author }}{% endif %}
     </p>
   </header>
