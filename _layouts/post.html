@@ -9,18 +9,18 @@ layout: default
 {% assign m = page.date | date: "%-m" %}
 {{ page.date | date: "%-d" }}
 {% case m %}
-  {% when '1' %}Enero
-  {% when '2' %}Febrero
-  {% when '3' %}Marzo
-  {% when '4' %}Abril
-  {% when '5' %}Mayo
-  {% when '6' %}Junio
-  {% when '7' %}Julio
-  {% when '8' %}Agosto
-  {% when '9' %}Septiembre
-  {% when '10' %}Octubre
-  {% when '11' %}Noviembre
-  {% when '12' %}Diciembre
+  {% when '1' %}de Enero de
+  {% when '2' %}de Febrero de
+  {% when '3' %}de Marzo de
+  {% when '4' %}de Abril de
+  {% when '5' %}de Mayo de
+  {% when '6' %}de Junio de
+  {% when '7' %}de Julio de
+  {% when '8' %}de Agosto de
+  {% when '9' %}de Septiembre de
+  {% when '10' %}de Octubre de
+  {% when '11' %}de Noviembre de
+  {% when '12' %}de Diciembre de
 {% endcase %}
     {{ page.date | date: "%Y"  }}
     {% if page.author %} - {{ page.author }}{% endif %}
