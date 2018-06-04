@@ -10,6 +10,8 @@ Os suplico que la llameis Susana. A mí llamadme algo bonito.
 
 Soy tan viejo que, cuando era jóven, ser popular era llevarse bien con las chicas y francamente mal con la mayoría de los chicos. Si otros hombres me toleraban se debía a mi oficio: mediocre escritor de cartas de amor de instituto.
 
+<!--more-->
+
 Me llamaban en los casos perdidos y tenía complejo de cerrajero de urgencia que no hacía demasiadas preguntas. 
 
 Lo que nadie sabía era que, para escribir una carta de amor de verdad, hay que estar enamorado. Parece obvio, pero a veces se olvida.
