@@ -1,6 +1,7 @@
 ---
 layout: post
 title: El perfil
+image: /assets/img/pexels/atardecer.jpg
 tags: [Cuentos]
 excerpt_separator: <!--more-->
 ---
