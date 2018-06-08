@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 </blockquote>
 
 <blockquote>
- <p style="text-align: right" style="background-color: rose;">Vaya. Qué sorpresa. Tú.</p>
+ <p style="text-align: right; color: blue;">Vaya. Qué sorpresa. Tú.</p>
 </blockquote>
 
 <!--more-->
