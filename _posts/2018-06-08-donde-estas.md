@@ -6,9 +6,13 @@ tags: [Mensajes]
 excerpt_separator: <!--more-->
 ---
 
->¿Dónde estás?
+<blockquote>
+  <p>¿Dónde estás?</p>
+</blockquote>
 
-<Deberías tener un poco de amor propio y no escribirme cuando bebes.
+<blockquote>
+ <p style="text-align: right">Deberías tener un poco de amor propio y no escribirme cuando bebes.</p>
+</blockquote>
 
 <!--more-->
 
