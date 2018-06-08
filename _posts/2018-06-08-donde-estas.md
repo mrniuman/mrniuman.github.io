@@ -59,3 +59,12 @@ excerpt_separator: <!--more-->
 <blockquote>
   <p>Fuerte serías si no me necesitases como te necesito yo a ti.</p>
 </blockquote>
+<blockquote>
+ <p style="text-align: right">¿Dónde estás?</p>
+</blockquote>
+<blockquote>
+ <p style="text-align: right">¿Dónde estás?</p>
+</blockquote>
+<blockquote>
+ <p style="text-align: right">¿Dónde estás?</p>
+</blockquote>
