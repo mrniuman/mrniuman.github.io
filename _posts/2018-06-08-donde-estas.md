@@ -33,9 +33,20 @@ excerpt_separator: <!--more-->
  <p style="text-align: right">Quieres que sea la mala de esta película que te has montado.</p>
 </blockquote>
 <blockquote>
- <p style="text-align: right">Quieres que sea la mala, que te mande a la mierda, que elimine todas tus esperanzas.</p>
+ <p style="text-align: right">Que te mande a la mierda, que arranque todas tus esperanzas. Quieres plantar un jardín nuevo.</p>
 </blockquote>
 <blockquote>
  <p style="text-align: right">Quieres ser libre.</p>
 </blockquote>
-
+<blockquote>
+  <p>Tenía la esperanza de no ser ya nada para ti. De que no tuvieras mi número en agenda, de que hubieras borrado todo. Es tan facil borrar, tan fácil empezar de nuevo... Dos pasos, borrar y confirmar. Y todo ha terminado.</p>
+</blockquote>
+<blockquote>
+  <p>Me decepcionas. Pensaba que eras más fuerte que yo.</p>
+</blockquote>
+<blockquote>
+ <p style="text-align: right">Lo soy, amor mío.</p>
+</blockquote>
+<blockquote>
+ <p style="text-align: right">Soy tan fuerte que te sigo queriendo y estoy con otro: otro que lo sabe.</p>
+</blockquote>
