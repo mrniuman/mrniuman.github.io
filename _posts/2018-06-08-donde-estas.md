@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 </blockquote>
 
 <blockquote>
- <p style="text-align: right; color: blue;">Vaya. Qué sorpresa. Tú.</p>
+ <p style="text-align: right; color:blue;">Vaya. Qué sorpresa. Tú.</p>
 </blockquote>
 
 <!--more-->
@@ -21,22 +21,22 @@ excerpt_separator: <!--more-->
   <p>¿Dónde estás?</p>
 </blockquote>
 <blockquote>
- <p style="text-align: right">Deberías tener un mínimo de amor propio y no escribirme cuando bebes.</p>
+ <p style="text-align: right; color:blue;">Deberías tener un mínimo de amor propio y no escribirme cuando bebes.</p>
 </blockquote>
 <blockquote>
   <p>¿Dónde estás?</p>
 </blockquote>
 <blockquote>
- <p style="text-align: right">Tú lo que quieres es que te bloquee.</p>
+ <p style="text-align: right; color:blue;">Tú lo que quieres es que te bloquee.</p>
 </blockquote>
 <blockquote>
- <p style="text-align: right">Quieres que sea la mala de esta película que te has montado.</p>
+ <p style="text-align: right; color:blue;">Quieres que sea la mala de esta película que te has montado.</p>
 </blockquote>
 <blockquote>
- <p style="text-align: right">Que te mande a la mierda, que arranque todas tus esperanzas. Quieres plantar un jardín nuevo.</p>
+ <p style="text-align: right; color:blue;">Que te mande a la mierda, que arranque todas tus esperanzas. Quieres plantar un jardín nuevo.</p>
 </blockquote>
 <blockquote>
- <p style="text-align: right">Quieres ser libre.</p>
+ <p style="text-align: right; color:blue;">Quieres ser libre.</p>
 </blockquote>
 <blockquote>
   <p>Tenía la esperanza de no ser ya nada para ti.</p>
@@ -51,10 +51,10 @@ excerpt_separator: <!--more-->
   <p>Me decepcionas. Pensaba que eras más fuerte que yo.</p>
 </blockquote>
 <blockquote>
- <p style="text-align: right">Lo soy, amor mío.</p>
+ <p style="text-align: right; color:blue;">Lo soy, amor mío.</p>
 </blockquote>
 <blockquote>
- <p style="text-align: right">Soy tan fuerte que te sigo queriendo y estoy con otro.</p>
+ <p style="text-align: right; color:blue;">Soy tan fuerte que te sigo queriendo y estoy con otro.</p>
 </blockquote>
 <blockquote>
   <p>Fuerte serías si lo contaras. Si no tuvieras pánico de la soledad.</p>
@@ -66,11 +66,11 @@ excerpt_separator: <!--more-->
   <p>Fuerte serías si no me necesitaras como te necesito yo a ti.</p>
 </blockquote>
 <blockquote>
- <p style="text-align: right">¿Dónde estás?</p>
+ <p style="text-align: right; color:blue;">¿Dónde estás?</p>
 </blockquote>
 <blockquote>
- <p style="text-align: right">¿Dónde estás?</p>
+ <p style="text-align: right; color:blue;">¿Dónde estás?</p>
 </blockquote>
 <blockquote>
- <p style="text-align: right">¿Dónde estás?</p>
+ <p style="text-align: right; color:blue;">¿Dónde estás?</p>
 </blockquote>
