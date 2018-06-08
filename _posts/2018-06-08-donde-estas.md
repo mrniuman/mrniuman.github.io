@@ -39,7 +39,7 @@ excerpt_separator: <!--more-->
  <p style="text-align: right">Quieres ser libre.</p>
 </blockquote>
 <blockquote>
-  <p>Tenía la esperanza de no ser ya nada para ti. De que no tuvieras mi número en agenda, de que hubieras borrado todo. Es tan facil borrar, tan fácil empezar de nuevo... Dos pasos, borrar y confirmar. Y todo ha terminado.</p>
+  <p>Tenía la esperanza de no ser ya nada para ti. De que no tuvieras mi número en agenda, de que hubieras borrado todo. Es tan fácil borrar, tan fácil empezar de nuevo... Dos pasos, borrar y confirmar. Y todo ha terminado.</p>
 </blockquote>
 <blockquote>
   <p>Me decepcionas. Pensaba que eras más fuerte que yo.</p>
@@ -48,5 +48,14 @@ excerpt_separator: <!--more-->
  <p style="text-align: right">Lo soy, amor mío.</p>
 </blockquote>
 <blockquote>
- <p style="text-align: right">Soy tan fuerte que te sigo queriendo y estoy con otro: otro que lo sabe.</p>
+ <p style="text-align: right">Soy tan fuerte que te sigo queriendo y estoy con otro.</p>
+</blockquote>
+<blockquote>
+  <p>Fuerte serías si lo contaras. Si no tuvieras pánico de la soledad.</p>
+</blockquote>
+<blockquote>
+  <p>Fuerte serías si hubieras empezado de nuevo.</p>
+</blockquote>
+<blockquote>
+  <p>Fuerte serías si no me necesitases como te necesito yo a ti.</p>
 </blockquote>
