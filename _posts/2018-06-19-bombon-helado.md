@@ -6,7 +6,7 @@ tags: [Cuentos]
 excerpt_separator: <!--more-->
 ---
 
-El olor a pintura siempre me ha recordado al contacto de una mano mientras pinto unas uñas. Cuidar de la belleza de una mujer para que brille, es un viaje interior, un sacramento. Otros tíos lo hacen con sus coches. Lo respeto, pero estoy convencido de que no tiene nada que ver.
+El olor a pintura siempre me ha recordado al contacto de una mano mientras pinto unas uñas. Cuidar de la belleza de una mujer para que brille es un viaje interior, un sacramento. Otros tíos lo hacen con sus coches. Lo respeto, pero estoy convencido de que no tiene nada que ver.
 
 <!--more-->
 [![bombon](/assets/img/pexels/bombon.jpg)](/assets/img/pexels/bombon.jpg)
@@ -20,13 +20,13 @@ Era tan jóven que yo podría ser su padre. Empezó riéndose de mí con sus ami
 
 El primer beso llegó de la mano de la primera cita, un final bonito para una noche bonita en una terraza tranquila, llena de luz y miradas suaves. Ella no había parado de mirar el móvil, de contestar mensajes. Sin embargo se entregaba con los ojos, pedía disculpas. No hacía falta ser muy listo para saber que la historia no tenía futuro.
 
-Nos marchábamos y decidí besarla porque ella no iba a hacerlo, no era capaz. Junté los labios con los suyos despacio, una caricia lo más suave posible, sin entrometerme en una vida complicada. Lo hice solamente para que supiera qué le decía su cuerpo de nosotros, para darle una respuesta a una ecuación complicada. Me devolvió una boca entreabierta, una lengua suave y cariñosa. Bajó mis manos a su culo para que pudiera sentir su ropa interior a traves de la suave tela del vestido, cruzó sus manos detrás de mi cuello y nos sumergimos en las profundidades de la noche. Decidimos seguir otro día, más y mejor.
+Nos marchábamos y decidí besarla porque ella no iba a hacerlo, no era capaz. Junté los labios con los suyos despacio, una caricia lo más suave posible, sin entrometerme en una vida complicada. Lo hice solamente para que supiera qué le decía su cuerpo de nosotros, para darle una respuesta a una ecuación complicada. Me devolvió una boca entreabierta, una lengua suave y cariñosa. Bajó mis manos a su culo para que pudiera sentir su ropa interior a traves de la suave tela del vestido, cruzó sus manos detrás de mi cuello y nos sumergimos en las profundidades de la noche. Decidimos seguir otro día sin compromisos, más y mejor.
 
 Aquella noche yo llevaba velas, un buen vino, agua fría, el mejor jamón ibérico, pan todavía caliente, sushi y bombones helados. Ella un par de sábanas, una almohada grande y música. Supongo que también llevaba preservativos.
 
 Nos acariciaba la luz de las velas y éramos una primitiva pareja en una cueva del extrarradio, un Adán decrépito y una Eva casi adolescente, okupas de un destino que no era el nuestro.
 
-Empezamos a hablar de sexo mientras comíamos los bombones. Tenía un sentido del humor interesante para ser una novata. Dijo que sri yo también creía que era verdad que se comían los helados igual que las partes del cuerpo más sensibles. Le respondí que sin duda. Ella dijo muy seria y alcoholizada que nunca se lo habían hecho así. Que a ella le encantaba hacérselo, pero que cuando ella lo recibía notaba que era un compromiso, se sentía sucia y dejaba de excitarse, que todo se estropeaba.
+Empezamos a hablar de sexo mientras comíamos los bombones. Tenía un sentido del humor interesante para ser una novata. Dijo que si yo también creía que era verdad que se comían los helados igual que las partes del cuerpo más sensibles. Le respondí que sin duda. Ella dijo muy seria y alcoholizada que nunca se lo habían hecho así. Que a ella le encantaba hacérselo, pero que cuando ella lo recibía notaba que era un compromiso, se sentía sucia y dejaba de excitarse, que todo se estropeaba.
 
 Entre el alcohol, sus labios, la injusticia de que alguien se sienta así, la falta de futuro y la pena de años que yo llevaba encima creo que perdí la cabeza.
 
