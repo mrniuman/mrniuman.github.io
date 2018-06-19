@@ -54,4 +54,4 @@ Empezó a amanecer y ella no era capaz de moverse.
 
 La cogí en brazos para estirar la almohada y las sábanas. Tenía las rodillas en carne viva y la tela estaba manchada de sangre, sudor y placer. La arropé entre la suciedad, le acaricié la cara, y nos sonreimos sin besarnos.
 
-No nos despedimos. Tampoco nos volvimos a ver jamás.
+No nos despedimos. Tampoco nos volvimos a ver jamás. Pero a veces, cuando pienso en si existe diferencia entre querer de verdad y estar encoñado, me vuelve un delicado sabor amargo.
