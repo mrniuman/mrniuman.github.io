@@ -6,7 +6,7 @@ tags: [Cuentos]
 excerpt_separator: <!--more-->
 ---
 
-El olor a pintura siempre me ha recordado al contacto firme de una mano mientras pinto unas uñas. Cuidar la belleza de una mujer, para que brille, es un viaje interior, un sacramento. Otros tíos lo hacen con sus coches. Lo respeto, pero estoy convencido de que no tiene nada que ver.
+El olor a pintura siempre me ha recordado al contacto de una mano mientras pinto unas uñas. Cuidar de la belleza de una mujer para que brille, es un viaje interior, un sacramento. Otros tíos lo hacen con sus coches. Lo respeto, pero estoy convencido de que no tiene nada que ver.
 
 <!--more-->
 [![bombon](/assets/img/pexels/bombon.jpg)](/assets/img/pexels/bombon.jpg)
