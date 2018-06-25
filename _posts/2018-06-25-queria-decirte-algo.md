@@ -23,7 +23,7 @@ Siempre me ha podido el orgullo porque es una tabla de salvación en las torment
 
 Aquella vez, sin embargo, decidí entregarme a destiempo en un desesperado intento de prolongar algo que era imposible. Lo hice por mí. Lo hice porque quería quemar las naves, no quería volver de aquello. Quería desaparecer, quería destrozarlo todo empezando por mí, porque no me quería y yo a ella sí, porque quería ser otro. Supongo que si te lo dijera ahora también te sonaría.
 
-Estaba en línea. La imaginaba sonriendo y era como tenerla al lado, en la penumbra, los ojos brillantes, los labios dulces, suavemente mordidos de ganas, volcados en otro. No odiaba a ninguno de aquellos los dos. Me odiaba a mí. Llevava ya una semana mirando, sin escribir, cómo la perdía.
+Estaba en línea. La imaginaba sonriendo y era como tenerla al lado, en la penumbra, los ojos brillantes, los labios dulces, suavemente mordidos de ganas, volcados en otro. No odiaba a ninguno de aquellos enamorados. Me odiaba a mí. Llevava ya una semana mirando, sin escribir, cómo se encontraban.
 
 Me dolía tanto que escribí sin pensar, envié de golpe una dentellada para intentar robarle el corazón porque sabía que lo tenía reforzado, precioso, invulnerable, lleno de ese amor de los principios que puede durar dos días o dos años, ese amor que se acaba pero que es tan dulce que lo justifica todo porque en realidad es eterno.
 
@@ -35,7 +35,7 @@ Cuando la ví escribiendo aquel segundo de espera me acabó rompiendo del todo.
 
 > Lo harás.
 
-Y lo peor de todo, lo más duro, lo que me costó meses, recaídas y lágrimas, es que en cada mensaje, si cometes el error de buscarlo, hay un "te quiero" que solamente tú has escrito.
+Porque lo más duro, lo que cuesta infiernos de meses, recaídas y lágrimas, es que en cada mensaje de despedida del que se marcha, si cometes el error de buscarlo, hay un "te quiero" que no solamente tú has escrito.
 
 Por eso ahora hay algo que quiero decirte. Algo que no te voy a decir.
 
