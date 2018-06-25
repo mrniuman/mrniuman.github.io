@@ -11,7 +11,7 @@ Quería decirte algo. Algo que no te voy a decir.
 <!--more-->
 [![rotos](/assets/img/pexels/rotos.jpg)](/assets/img/pexels/rotos.jpg)
 
-Hace muchos años ya de mi última torpeza camuflada de súplica. Fué por whatsapp y no fué contigo. No me voy a olvidar nunca de lo que escribí.
+Hace muchos años ya de mi última torpeza camuflada de súplica. Fué por whatsapp y no fue contigo. No me voy a olvidar nunca de lo que escribí.
 
 Me dejé el alma en unas pocas letras mediocres, infantiles y estúpidas. Eran mi verdad. También eran una forma de hacerle todo el daño que podía.
 
