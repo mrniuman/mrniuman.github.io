@@ -11,7 +11,7 @@ Déjame que te hable de mi padre.
 <!--more-->
 [![carrera](/assets/img/pexels/carrera.jpg)](/assets/img/pexels/carrera.jpg)
 
-Mi padre es uno que no tuvo. Creo que aquel niño huérfano lo echaba tanto de menos que tuvo que inventarlo.
+Mi padre es uno que no tuvo. Creo que aquel niño huérfano lo echaba tanto de menos que se lo invventó.
 
 Me imagino a un mocoso de familia venida a menos por culpa de la desgracia en la España de los años 50 haciendo miles de recados que le permitieran juntar una peseta para poder ir al cine.
 
