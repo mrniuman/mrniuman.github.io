@@ -17,7 +17,7 @@ Me imagino a un mocoso de familia venida a menos por culpa de la desgracia en la
 
 En ese templo, ahora derrumbado en el centro de la villa norteña, la fábrica de los sueños le proporcionaba un modelo en el que reflejarse. Tal vez en ese proceso entendió que el verdadero poder del dinero no está en comprar lo necesario sino en poder seguir jugando con las esperanzas.
 
-Nunca he hablado con él de esto. Me lo imagino adoptado por Burt Lancaster haciendo de Capitán Vallo surcando en un barco pirata los mares Caribe mientras lo devoraba la tristeza del hambre, tener que robar pescado de las carretas que subían del puerto y malvenderlo por una entrada de cine. Siempre se me ha dado demasiado bien imaginar las tragedias y contar los muertos no confirmados del alma, pero lo triste siempre tiene algo de verdad. Si no, no engancha.
+Nunca he hablado con él de esto. Me lo imagino adoptado por Burt Lancaster haciendo de Capitán Vallo surcando en un barco pirata los mares del Caribe mientras lo devoraba la tristeza del hambre, tener que robar pescado de las carretas que subían del puerto y malvenderlo por una entrada de cine. Siempre se me ha dado demasiado bien imaginar las tragedias y contar los muertos no confirmados del alma, pero lo triste siempre tiene algo de verdad. Si no, no engancha.
 
 Papá era el hombre perfecto y por eso no podía perder nunca. Sobre todo no podía perder contra su hijo mayor. Para estar a su altura yo tampoco podía perder en nada y tenía que buscar una perfección imposible.
 
