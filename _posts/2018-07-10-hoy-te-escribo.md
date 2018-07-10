@@ -11,7 +11,7 @@ No voy a empezar esta carta con tu nombre porque no tengo intención de mandárt
 <!--more-->
 [![carta](/assets/img/pexels/carta.jpg)](/assets/img/pexels/carta.jpg)
 
-Además las cartas sin enviar tienen la ventaja de decir siempre la verdad. No van vestidas de censura ni intenciones porque son sentimientos sin filtro. Y eso las hace absurdas libres y tiernas como la vida misma.
+Además las cartas sin enviar tienen la ventaja de decir siempre la verdad. No van vestidas de censura ni intenciones porque son sentimientos sin filtro. Y eso las hace absurdas, libres y tiernas como la vida misma.
 
 Hoy te escribo. Es que, la verdad, me jode mucho no haberte mandado ninguna carta cuando podía. Entre tanto mensaje de mierda se me perdieron las ganas. Podía tocarte con letras cuando quería, tenerte de lejos, saber que me leías... No, no era capaz de perder ni un instante de imaginarte sonriendo con mis tonterías mientras escribo algo como esto, un trozo largo de alma que te habría dado pereza recorrer.
 
