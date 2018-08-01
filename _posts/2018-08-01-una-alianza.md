@@ -23,13 +23,13 @@ No sé si le echo demasiada imaginación pero para mí una mujer siempre busca l
 
 Van hambrientos y tienen miedo. Necesitan sentirse como se sentían, reflejar aquel momento de nuevo. Tal vez se han olvidado un poco de lo que sentían o son, como los míos, drogadictos de amor, alegría, belleza, lujuria y triunfo.
 
-A veces no encuentran lo que buscaban, y entonces el presente se rompe un poco. Si esos ojos fueran niños verías lágrimas, pero la mayoría de las veces los ojos de mujer solamente lloran por dentro. Es en ese momento en el que, si estás cerca del alma dolida, debes actuar rápido. Debes lanzar a ese mar de pena un beso, un abrazo o lo que demonios sea que sirva para mantener a flote a un espíritu que, al menos un poco, se ahoga delante tuyo.
+A veces no encuentran lo que buscaban, y entonces el presente se rompe un poco. Si esos ojos fueran niños verías lágrimas, pero la mayoría de las veces los ojos de mujer solamente lloran por dentro. Es en ese momento en el que, si estás cerca del alma dolida, debes actuar rápido. Debes lanzar a ese mar de pena un beso, un abrazo o lo que demonios sea que sirva para mantener a flote a un espíritu que, al menos un poco, se ahoga delante tuyo. A mí me habría gustado estar. Por si acaso.
 
-Tal vez ese día estabas así, o tal vez no. Tal vez hoy estarás en ese momento dulce de la ruptura en el que, de una forma triste y salvaje, amas como nunca. Ese instante en el que estás seguro de que toda la culpa es tuya. Ese escalofrío de dar un paso atras. Esa noche de las ganas de presencia y sexo cuando la alianza, la lleves o no, se clava ardiendo en una piel que ya la encuentra candente y extraña.
+Tal vez ese día estabas así, o tal vez no. Puede ser, también, que tal vez hoy estés en ese momento dulce de la ruptura en el que, de una forma triste y salvaje, amas como nunca. Ese instante en el que estás seguro de que toda la culpa es tuya, helada en el escalofrío de dar un paso atras en la cegadora noche de las ganas de presencia cuando la alianza, la lleves o no, se clava ardiendo en una piel que ya la encuentra candente y extraña.
 
-La alianza. El infinito en un círculo rodeando los dedos del corazón. Algo con lo que jugar, luciendo o escondiendo, mientras deseas o te desean. Un pasajero de quita y pon. Un fugaz símbolo de lo eterno. El Símbolo.
+La alianza. El amor infinito en un círculo rodeando todo convertido en algo con lo que jugar, luciendo o escondiendo, mientras deseas o te desean. Un pasajero de quita y pon. Un fugaz símbolo de lo eterno. El Símbolo.
 
-La quemadurá te dirá que no mereces nada. Te dirá que no sabes amar. Te dirá todas esas cosas que yo me digo a mi mismo todos los días.
+La quemadurá que deja te dirá que no mereces nada. Te dirá que no sabes amar. Te dirá todas esas cosas que yo me digo a mi mismo todos los días.
 
 Así que voy a escribirte, aunque no me entiendas, que tú y yo también tenemos una alianza. Cuando te des asco, cuando te sientas mal contigo y no puedas verte como realmente eres no te molestaré con fáciles espejismos de bonitos futuros, ternura y sueños: Tú y yo arderemos vivos entre la verdad y la mierda.
 
