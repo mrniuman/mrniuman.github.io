@@ -18,9 +18,9 @@ También estoy seguro de que ya te habrás olvidado de una conversación más en
 
 No lo pensé.
 
--Ya, pero es que yo te quiero así. ¿Qué me estás intentando vender?
+-Ya, pero es que yo te quiero así. ¿Qué me estás intentando decir?
 
-Te lo quise explicar. Quise decirte que mis expectativas, mis esperanzas, eran distintas. Que había perdido tiempo, que ya era viejo, que me habría gustado poder darte todo, que me habrías salido bien a la primera y que estaríamos bien, seríamos felices, ingenuos. Que te habrían hecho menos daño, que te habría cuidado, que tendríamos ya el castillo hecho.
+Te lo quise explicar. Quise decirte que mis expectativas, mis esperanzas, eran distintas. Que había perdido tiempo, que ya era viejo, que me habría gustado poder darte todo, que me habrías salido bien a la primera y que estaríamos bien, seríamos felices, ingenuos. Que a ti te habrían hecho menos daño, que yo te habría cuidado, que tendríamos ya el castillo hecho.
 
 Y entonces pude ver tus ojos. Las lágrimas asomando, la angustia.
 
