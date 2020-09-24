@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 [![olas](/assets/img/pexels/olasa.jpg)](/assets/img/pexels/olasa.jpg)
 Hoy me habría gustado ser valiente y poder decirte que tenías razón.
 
-No podría contestar por qué. No le puedo echar la culpa a los años que avanzan como niños perdidos sin mirar atrás. Tampoco la cercanía de la muerte en este año extraño en el que todos hemos tenido un mal viaje. Tal vez aunque no lo veamos, por dentro estas cosas son la luz que hace germinar lo que ya estaba plantado. En cualquier caso tú te reirías y dirías que deje de darle vueltas.
+No podría contestar por qué. No le puedo echar la culpa a los años que avanzan como niños perdidos sin mirar atrás. Tampoco la cercanía de la muerte en este año extraño en el que todos hemos tenido un mal viaje. Tal vez, aunque no lo veamos, por dentro, estas cosas son la luz que hace germinar lo que ya estaba plantado. En cualquier caso tú te reirías y dirías que deje de darle vueltas.
 
 También estoy seguro de que ya te habrás olvidado de una conversación más en el amanecer después de amarnos, hace tanto tiempo. La luz entrando tamizada por la ventana, el estúpido pero excitante calor de octubre, el planazo para el puente. Y los jodidos portazos de los vecinos, la venganza por la noche que, sin querer darnos cuenta, les habíamos dado.
 
@@ -24,7 +24,7 @@ Te lo quise explicar. Quise decirte que mis expectativas, mis esperanzas, eran d
 
 Y entonces pude ver tus ojos. Las lágrimas asomando, la angustia.
 
--No es justo. Fantaseas con un pasado perfecto en vez de vivir esto de verdad conmigo. Yo no puedo luchar contra eso.
+-No es justo. Fantaseas con un pasado ideal en vez de vivir esto de verdad conmigo. Yo no puedo luchar contra eso.
 
 No retiré ni una palabra, estaba convencido de que aquello tenía todo el sentido del mundo.
 
